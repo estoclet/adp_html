@@ -34,8 +34,8 @@ Colors:
 /**************************/
 @font-face {
     font-family: 'KonTikiEnchantedJF';
-    src: url('webfonts/KonTikiEnchantedJF.woff2') format('woff2'),
-        url('webfonts/KonTikiEnchantedJF.woff') format('woff');
+    src: url('../webfonts/KonTikiEnchantedJF.woff2') format('woff2'),
+        url('../webfonts/KonTikiEnchantedJF.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
