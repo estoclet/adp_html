@@ -50,10 +50,11 @@ body, p {
 	color: #53575a; 
 	font: 400 1rem/1.625rem "Open Sans", sans-serif;
 }
-brand {
+.brand {
     font-family: 'KonTikiEnchantedJF'!important;
-    font-weight: normal;
-    font-style: normal;
+    font-weight: normal!important;
+    font-style: normal!important;
+	font-size:5rem !important;
 }
 h1 {
 	color: #161223;
