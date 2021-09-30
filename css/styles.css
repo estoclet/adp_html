@@ -32,6 +32,14 @@ Colors:
 /**************************/
 /*     General Styles     */
 /**************************/
+@font-face {
+    font-family: 'KonTikiEnchantedJF';
+    src: url('webfonts/KonTikiEnchantedJF.woff2') format('woff2'),
+        url('webfonts/KonTikiEnchantedJF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
 body,
 html {
     width: 100%;
@@ -42,7 +50,11 @@ body, p {
 	color: #53575a; 
 	font: 400 1rem/1.625rem "Open Sans", sans-serif;
 }
-
+brand {
+    font-family: 'KonTikiEnchantedJF';
+    font-weight: normal;
+    font-style: normal;
+}
 h1 {
 	color: #161223;
 	font-weight: 600;
